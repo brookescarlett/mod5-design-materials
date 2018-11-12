@@ -15,7 +15,7 @@ It’s often said that good design is all around us, but because it works with o
 * Minimalist: Is it focused on just the essentials? Is it simple?
 
 ### Observing Bad Design
-![bad-design](http://blog.uxeria.com/wp-content/uploads/2015/10/design-memes-7.png)
+![bad-design](https://media.giphy.com/media/l2JecaXf42Kp8A9O0/giphy.gif)
 * Example: [Updoots](http://updoots.com/)
 * Why it's poorly designed: 
     * On first glance, it’s hard to tell what this is.
@@ -26,7 +26,7 @@ It’s often said that good design is all around us, but because it works with o
 
 
 ### Observing Good Design
-![good-design](https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/0/02/Futurama-fry-meme-generator-not-sure-if-extremely-beautiful-or-ridiculously-pretty-5b4c5c.jpg/revision/latest?cb=20161208231911)
+![good-design](https://media.giphy.com/media/xT9IgFXbD1smKi1IHe/giphy.gif)
 * Example: [Evernote](https://evernote.com/)
 * Why it's well designed: 
     * It’s clear what the product does.
