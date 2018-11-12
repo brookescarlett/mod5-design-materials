@@ -13,7 +13,27 @@ It’s often said that good design is all around us, but because it works with o
 * Environmentally-friendly: Does it conserve resources?
 * Minimalist: Is it focused on just the essentials? Is it simple?
 
+### Observing Bad Design
+* Example: [Updoots](http://updoots.com/)
+* Why it's poorly designed: 
+    * On first glance, it’s hard to tell what this is.
+    * The logo doesn’t speak to the brand.
+    * There’s no logical hierarchy of content
+    * There’s no division of slides content is everywhere
+    * Blocks or text are center aligned which drives down scannability. 
+
+
+### Observing Good Design
+* Example: [Evernote](https://evernote.com/)
+* Why it's well designed: 
+    * It’s clear what the product does.
+    * The logo and navigation up top are legible and stand out from the content below. 
+    * There’s consistent brand language (fonts, colors, and imagery). 
+    * Content is clearly divided into readable chunks with sufficient whitespace to guide the user’s eye to specific actions.
+
 
 ### Extra Resources
 * [Dieter Rams: ten principles for good desig](https://www.vitsoe.com/us/about/good-design)
 * [Principles of UI Design](http://bokardo.com/principles-of-user-interface-design/)
+* [20 Examples of Bad Web Design](http://www.topdesignmag.com/20-examples-of-bad-web-design/)
+* [11 Great UI Designs](https://www.creativebloq.com/web-design/examples-ui-design-7133429)
