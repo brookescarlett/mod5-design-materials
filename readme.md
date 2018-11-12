@@ -1,5 +1,7 @@
 # Introduction to UX/UI Design
-Welcome to Mod 5! Making an app from scratch is one of the most exciting parts of the program, but it's often hard to know where to start when it comes to styling it. So here we are! This is an introduction to the fundamentals of user experience and user interface design, that can help guide aesthetic choices as you bring your final product to life. Think of this as a crash course in web design; a 101 to help communicate functionality to users through visual cues. 
+Welcome to Mod 5! Making an app from scratch is one of the most exciting parts of the program, but it's often hard to know where to start when it comes to designing it. So here we are! This is an introduction to the fundamentals of user experience and user interface design. It's here to help inform your design decisions as your apps come to life. 
+
+Think of this as a crash course in web design; a 101 to help render your app's functionality more accessible to users through visual language. 
 
 ![comp-art](https://media.giphy.com/media/bpmNf92LmkoMw/giphy.gif)
 
