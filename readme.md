@@ -10,8 +10,8 @@ These labs will cover:
 4. Intro to Color Theory 
 
 How they work: 
-* The labs will offer you some best practices and online tools that will help you implement the principles into your products. 
-* Throughout the readmes, there will be videos and extra resources that you can dig into and learn more. These are just the basics, we're just scratching the surface.
+* The labs will offer you some best practices and online tools that will help you implement the principles into your projects. 
+* Throughout the readmes, there will be videos and extra resources that you can dig into and learn more about the topics covered.
 
 ### Extra Resources: 
 * [Awwwards](https://www.awwwards.com/)
