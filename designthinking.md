@@ -1,8 +1,7 @@
 # Applying Design Thinking to Visual Design
 Prior to starting any project, the designer/developer in charge must ask themselves the following questions:
 
-![design-meme](http://www.imcreator.com/blog/wp-content/uploads/2014/04/WebDesignMemes-2.jpg)
-
+![audience](https://media.giphy.com/media/BRjNBtOgmLweQ/giphy.gif)
 1. Who is the audience?
     * Understanding your audience is crucial to building any platform. Following the [user-centered design](http://www.usabilityfirst.com/about-usability/introduction-to-user-centered-design/) approach will not only guarantee an audience and direction but when used in conjunction with [design thinking](https://www.creativityatwork.com/design-thinking-strategy-for-innovation/), will de-risk your platform and establish a strong foundation to build off of.
     * Did you inherit a [persona](https://www.youtube.com/watch?time_continue=11&v=y1oWPkoe4yU) from a [UX](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/) team? Having a validated persona or [design principles](https://www.webdesignerdepot.com/2018/05/7-ux-principles-for-creating-a-great-website/) will be your guiding light towards making better design decisions. 
