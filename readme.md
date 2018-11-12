@@ -5,13 +5,13 @@ Think of this as a crash course in web design; a 101 to help render your app's f
 
 ![comp-art](https://media.giphy.com/media/bpmNf92LmkoMw/giphy.gif)
 
-These labs will cover: 
+### These labs will cover: 
 1. Design Thinking
 2. Design Principles and Best Practices
 3. Intro to Typography
 4. Intro to Color Theory 
 
-How they work: 
+### How they work: 
 * The labs will offer you some best practices and online tools that will help you implement the principles into your projects. 
 * Throughout the readmes, there will be videos and extra resources that you can dig into and learn more about the topics covered.
 
