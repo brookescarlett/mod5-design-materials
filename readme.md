@@ -12,8 +12,8 @@ Think of this as a crash course in web design; a 101 to help render your app's f
 4. Intro to Color Theory 
 
 ### How they work: 
-* The labs will offer you some best practices and online tools that will help you implement the principles into your projects. 
-* Throughout the readmes, there will be videos and extra resources that you can dig into and learn more about the topics covered.
+* We'll start with an exploration of all of the topics above. In addition, the labs will offer you some best practices; rules you can follow as you think through the design of your app. Then, we'll provide you with some online tools that you can utilize as you start thinking about implementation, as well as resources to read/watch if you want to take a deeper dive into any of the topics.
+* This material is designed to _help_ you think about design in ways you may not have previously. The aim is to show you how you can use design thinking, research, color and type to _enhance_ the work that you're already doing.
 
 ### Extra Resources: 
 * [Awwwards](https://www.awwwards.com/)
