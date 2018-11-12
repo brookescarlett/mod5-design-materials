@@ -11,11 +11,18 @@ At its core, typography i is a set of geometric and organic shapes to form lette
 * For mobile, find typefaces that pair well with machine fonts. 
     * I.e., [San Francisco](https://developer.apple.com/fonts/) (iOS) and [Roboto](https://fonts.google.com/specimen/Roboto) (Android)
 
-### Extra Resources 
+### Tools 
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - useful detecting the font used in a design
 * [Typewolf](https://www.typewolf.com/) - a typeface pairing site 
 * [Google Fonts](https://fonts.google.com/) - an API with lots of fonts that you can bring into your projects
 * [Fonts In Use](https://fontsinuse.com/) - typography archive
 * [Type Finder](http://www.type-finder.com/) - find a reputable typeface
 * [Choosing the Right Font: A Partical Guide to Typography on the Web](https://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
-* [TypeScale](http://type-scale.com/) 
+* [TypeScale](http://type-scale.com/)
+
+### Extra Resources 
+* [Typography 101](http://www.coolnerdsmarketing.com/cnm-blog/typography-101/)
+* [3 Brilliant Typography Examples in Branding](https://parisleaf.com/blog/3-brilliant-typography-examples-branding)
+* [A Visual Guide To The Anatomy of Typography](https://blog.visme.co/type-anatomy/)
+* [Establish A Mood With Typography](https://tympanus.net/codrops/2012/02/19/establish-a-mood-with-typography/) 
+ 
