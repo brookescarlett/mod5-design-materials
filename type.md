@@ -14,7 +14,7 @@ At its core, typography is a set of geometric and organic shapes to form letters
     * I.e., [San Francisco](https://developer.apple.com/fonts/) (iOS) and [Roboto](https://fonts.google.com/specimen/Roboto) (Android)
 
 ### Online Tools 
-![alphabet](https://gph.is/2jRt3nz)
+![alphabet](https://media.giphy.com/media/3o7qDE27v3jWNCQkcE/giphy.gif)
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - useful detecting the font used in a design
 * [Typewolf](https://www.typewolf.com/) - a typeface pairing site 
 * [Google Fonts](https://fonts.google.com/) - an API with lots of fonts that you can bring into your projects
