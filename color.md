@@ -1,8 +1,6 @@
 # Color 
 Learning how to use color is an important skill set for every designer. [Color theory](https://www.youtube.com/watch?time_continue=3&v=O8xryaE0-jE) focuses on the color wheel, color harmony, and its application to accomplish a specific goal. With the right colors, you can set a mood, attract attention, or create a signature brand. Color can be used to energize a page or to create a sense of calm. With color, you can provide a visual understanding of your platform and guide user’s to take specific actions on your screens.  
 
-![color](https://media.giphy.com/media/lYgsRPkt16EL5U2fvR/giphy.gif)
-
 ### Best Practices 
 * Start with one color and work within a [monochromatic](https://designshack.net/articles/inspiration/monochromatic-color-how-to-use-it-effectively/) color scheme. 
 * If you feel like adding another color, provide a complimentary color. 
